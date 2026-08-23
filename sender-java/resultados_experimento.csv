@@ -1,0 +1,481 @@
+algorithm,message_bytes,ber,repetition,original_bits,encoded_bits,overhead_bits,altered_bits,connection_success,valid,error_detected,error_corrected,corrected_bits,message_correct,error
+HAMMING_12_8,10,0.000000,1,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,2,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,3,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,4,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,5,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,6,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,7,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,8,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,9,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,10,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,11,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,12,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,13,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,14,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,15,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,16,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,17,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,18,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,19,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.000000,20,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,1,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,2,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,3,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.001000,4,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,5,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.001000,6,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,7,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.001000,8,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,9,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,10,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,11,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,12,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,13,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,14,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,15,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.001000,16,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,17,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,18,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,19,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.001000,20,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.010000,1,80,120,40,2,true,true,true,true,2,true,
+HAMMING_12_8,10,0.010000,2,80,120,40,3,true,true,true,true,3,true,
+HAMMING_12_8,10,0.010000,3,80,120,40,2,true,true,true,true,2,true,
+HAMMING_12_8,10,0.010000,4,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.010000,5,80,120,40,3,true,true,true,true,3,true,
+HAMMING_12_8,10,0.010000,6,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.010000,7,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.010000,8,80,120,40,2,true,true,true,true,2,true,
+HAMMING_12_8,10,0.010000,9,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.010000,10,80,120,40,2,true,true,true,true,2,true,
+HAMMING_12_8,10,0.010000,11,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.010000,12,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.010000,13,80,120,40,2,true,true,true,true,2,true,
+HAMMING_12_8,10,0.010000,14,80,120,40,0,true,true,false,false,0,true,
+HAMMING_12_8,10,0.010000,15,80,120,40,2,true,true,true,true,2,true,
+HAMMING_12_8,10,0.010000,16,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.010000,17,80,120,40,3,true,true,true,true,3,true,
+HAMMING_12_8,10,0.010000,18,80,120,40,2,true,true,true,true,1,false,
+HAMMING_12_8,10,0.010000,19,80,120,40,1,true,true,true,true,1,true,
+HAMMING_12_8,10,0.010000,20,80,120,40,4,true,false,true,false,0,false,byte fuera de rango ASCII: 0xD4
+HAMMING_12_8,10,0.050000,1,80,120,40,5,true,false,true,false,0,false,byte fuera de rango ASCII: 0xA2
+HAMMING_12_8,10,0.050000,2,80,120,40,8,true,false,true,false,0,false,byte fuera de rango ASCII: 0xAB
+HAMMING_12_8,10,0.050000,3,80,120,40,4,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 9
+HAMMING_12_8,10,0.050000,4,80,120,40,6,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 7
+HAMMING_12_8,10,0.050000,5,80,120,40,7,true,false,true,false,0,false,byte fuera de rango ASCII: 0xDA
+HAMMING_12_8,10,0.050000,6,80,120,40,5,true,true,true,true,4,false,
+HAMMING_12_8,10,0.050000,7,80,120,40,6,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 0
+HAMMING_12_8,10,0.050000,8,80,120,40,5,true,true,true,true,4,false,
+HAMMING_12_8,10,0.050000,9,80,120,40,5,true,true,true,true,4,false,
+HAMMING_12_8,10,0.050000,10,80,120,40,8,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 6
+HAMMING_12_8,10,0.050000,11,80,120,40,6,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 0
+HAMMING_12_8,10,0.050000,12,80,120,40,7,true,true,true,true,5,false,
+HAMMING_12_8,10,0.050000,13,80,120,40,8,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 7
+HAMMING_12_8,10,0.050000,14,80,120,40,7,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 1
+HAMMING_12_8,10,0.050000,15,80,120,40,6,true,false,true,false,0,false,byte fuera de rango ASCII: 0xDC
+HAMMING_12_8,10,0.050000,16,80,120,40,9,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 5
+HAMMING_12_8,10,0.050000,17,80,120,40,9,true,true,true,true,7,false,
+HAMMING_12_8,10,0.050000,18,80,120,40,6,true,false,true,false,0,false,byte fuera de rango ASCII: 0xD5
+HAMMING_12_8,10,0.050000,19,80,120,40,5,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 6
+HAMMING_12_8,10,0.050000,20,80,120,40,5,true,true,true,true,5,true,
+HAMMING_12_8,100,0.000000,1,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,2,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,3,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,4,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,5,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,6,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,7,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,8,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,9,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,10,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,11,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,12,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,13,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,14,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,15,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,16,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,17,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,18,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,19,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.000000,20,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,1,800,1200,400,2,true,true,true,true,2,true,
+HAMMING_12_8,100,0.001000,2,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,3,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,4,800,1200,400,1,true,true,true,true,1,true,
+HAMMING_12_8,100,0.001000,5,800,1200,400,2,true,true,true,true,2,true,
+HAMMING_12_8,100,0.001000,6,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,7,800,1200,400,2,true,true,true,true,2,true,
+HAMMING_12_8,100,0.001000,8,800,1200,400,1,true,true,true,true,1,true,
+HAMMING_12_8,100,0.001000,9,800,1200,400,2,true,true,true,true,2,true,
+HAMMING_12_8,100,0.001000,10,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,11,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,12,800,1200,400,2,true,true,true,true,2,true,
+HAMMING_12_8,100,0.001000,13,800,1200,400,4,true,true,true,true,4,true,
+HAMMING_12_8,100,0.001000,14,800,1200,400,1,true,true,true,true,1,true,
+HAMMING_12_8,100,0.001000,15,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,16,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,17,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,18,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,19,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.001000,20,800,1200,400,0,true,true,false,false,0,true,
+HAMMING_12_8,100,0.010000,1,800,1200,400,13,true,true,true,true,13,true,
+HAMMING_12_8,100,0.010000,2,800,1200,400,18,true,true,true,true,17,false,
+HAMMING_12_8,100,0.010000,3,800,1200,400,7,true,true,true,true,7,true,
+HAMMING_12_8,100,0.010000,4,800,1200,400,9,true,true,true,true,9,true,
+HAMMING_12_8,100,0.010000,5,800,1200,400,17,true,true,true,true,12,false,
+HAMMING_12_8,100,0.010000,6,800,1200,400,8,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 12
+HAMMING_12_8,100,0.010000,7,800,1200,400,15,true,true,true,true,15,true,
+HAMMING_12_8,100,0.010000,8,800,1200,400,10,true,true,true,true,10,true,
+HAMMING_12_8,100,0.010000,9,800,1200,400,18,true,false,true,false,0,false,byte fuera de rango ASCII: 0xD8
+HAMMING_12_8,100,0.010000,10,800,1200,400,17,true,true,true,true,16,false,
+HAMMING_12_8,100,0.010000,11,800,1200,400,17,true,true,true,true,17,true,
+HAMMING_12_8,100,0.010000,12,800,1200,400,9,true,true,true,true,9,true,
+HAMMING_12_8,100,0.010000,13,800,1200,400,11,true,true,true,true,11,true,
+HAMMING_12_8,100,0.010000,14,800,1200,400,8,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 47
+HAMMING_12_8,100,0.010000,15,800,1200,400,13,true,true,true,true,13,true,
+HAMMING_12_8,100,0.010000,16,800,1200,400,8,true,true,true,true,8,true,
+HAMMING_12_8,100,0.010000,17,800,1200,400,10,true,true,true,true,10,true,
+HAMMING_12_8,100,0.010000,18,800,1200,400,12,true,true,true,true,12,true,
+HAMMING_12_8,100,0.010000,19,800,1200,400,12,true,true,true,true,12,true,
+HAMMING_12_8,100,0.010000,20,800,1200,400,10,true,true,true,true,10,true,
+HAMMING_12_8,100,0.050000,1,800,1200,400,54,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 58
+HAMMING_12_8,100,0.050000,2,800,1200,400,61,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 13
+HAMMING_12_8,100,0.050000,3,800,1200,400,65,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 49
+HAMMING_12_8,100,0.050000,4,800,1200,400,39,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 11
+HAMMING_12_8,100,0.050000,5,800,1200,400,63,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 45
+HAMMING_12_8,100,0.050000,6,800,1200,400,66,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 14
+HAMMING_12_8,100,0.050000,7,800,1200,400,54,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 12
+HAMMING_12_8,100,0.050000,8,800,1200,400,61,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 74
+HAMMING_12_8,100,0.050000,9,800,1200,400,72,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 28
+HAMMING_12_8,100,0.050000,10,800,1200,400,66,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 78
+HAMMING_12_8,100,0.050000,11,800,1200,400,55,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 18
+HAMMING_12_8,100,0.050000,12,800,1200,400,51,true,false,true,false,0,false,byte fuera de rango ASCII: 0xED
+HAMMING_12_8,100,0.050000,13,800,1200,400,59,true,false,true,false,0,false,byte fuera de rango ASCII: 0xDF
+HAMMING_12_8,100,0.050000,14,800,1200,400,56,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 76
+HAMMING_12_8,100,0.050000,15,800,1200,400,65,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 4
+HAMMING_12_8,100,0.050000,16,800,1200,400,48,true,false,true,false,0,false,byte fuera de rango ASCII: 0xE4
+HAMMING_12_8,100,0.050000,17,800,1200,400,65,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 28
+HAMMING_12_8,100,0.050000,18,800,1200,400,66,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 30
+HAMMING_12_8,100,0.050000,19,800,1200,400,53,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 21
+HAMMING_12_8,100,0.050000,20,800,1200,400,56,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 49
+HAMMING_12_8,1000,0.000000,1,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,2,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,3,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,4,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,5,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,6,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,7,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,8,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,9,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,10,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,11,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,12,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,13,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,14,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,15,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,16,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,17,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,18,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,19,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.000000,20,8000,12000,4000,0,true,true,false,false,0,true,
+HAMMING_12_8,1000,0.001000,1,8000,12000,4000,16,true,true,true,true,16,true,
+HAMMING_12_8,1000,0.001000,2,8000,12000,4000,9,true,true,true,true,9,true,
+HAMMING_12_8,1000,0.001000,3,8000,12000,4000,11,true,true,true,true,11,true,
+HAMMING_12_8,1000,0.001000,4,8000,12000,4000,18,true,true,true,true,18,true,
+HAMMING_12_8,1000,0.001000,5,8000,12000,4000,7,true,true,true,true,7,true,
+HAMMING_12_8,1000,0.001000,6,8000,12000,4000,12,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 363
+HAMMING_12_8,1000,0.001000,7,8000,12000,4000,7,true,true,true,true,7,true,
+HAMMING_12_8,1000,0.001000,8,8000,12000,4000,12,true,true,true,true,12,true,
+HAMMING_12_8,1000,0.001000,9,8000,12000,4000,9,true,true,true,true,9,true,
+HAMMING_12_8,1000,0.001000,10,8000,12000,4000,10,true,true,true,true,10,true,
+HAMMING_12_8,1000,0.001000,11,8000,12000,4000,8,true,true,true,true,8,true,
+HAMMING_12_8,1000,0.001000,12,8000,12000,4000,10,true,true,true,true,10,true,
+HAMMING_12_8,1000,0.001000,13,8000,12000,4000,10,true,true,true,true,10,true,
+HAMMING_12_8,1000,0.001000,14,8000,12000,4000,12,true,false,true,false,0,false,byte fuera de rango ASCII: 0xE1
+HAMMING_12_8,1000,0.001000,15,8000,12000,4000,10,true,true,true,true,10,true,
+HAMMING_12_8,1000,0.001000,16,8000,12000,4000,15,true,true,true,true,15,true,
+HAMMING_12_8,1000,0.001000,17,8000,12000,4000,14,true,true,true,true,14,true,
+HAMMING_12_8,1000,0.001000,18,8000,12000,4000,10,true,true,true,true,10,true,
+HAMMING_12_8,1000,0.001000,19,8000,12000,4000,11,true,true,true,true,11,true,
+HAMMING_12_8,1000,0.001000,20,8000,12000,4000,4,true,true,true,true,4,true,
+HAMMING_12_8,1000,0.010000,1,8000,12000,4000,119,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 680
+HAMMING_12_8,1000,0.010000,2,8000,12000,4000,118,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 154
+HAMMING_12_8,1000,0.010000,3,8000,12000,4000,115,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 389
+HAMMING_12_8,1000,0.010000,4,8000,12000,4000,118,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 131
+HAMMING_12_8,1000,0.010000,5,8000,12000,4000,117,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 324
+HAMMING_12_8,1000,0.010000,6,8000,12000,4000,115,true,true,true,true,109,false,
+HAMMING_12_8,1000,0.010000,7,8000,12000,4000,128,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 619
+HAMMING_12_8,1000,0.010000,8,8000,12000,4000,123,true,false,true,false,0,false,byte fuera de rango ASCII: 0xE7
+HAMMING_12_8,1000,0.010000,9,8000,12000,4000,137,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 899
+HAMMING_12_8,1000,0.010000,10,8000,12000,4000,99,true,true,true,true,97,false,
+HAMMING_12_8,1000,0.010000,11,8000,12000,4000,133,true,false,true,false,0,false,byte fuera de rango ASCII: 0xD4
+HAMMING_12_8,1000,0.010000,12,8000,12000,4000,127,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 68
+HAMMING_12_8,1000,0.010000,13,8000,12000,4000,101,true,false,true,false,0,false,byte fuera de rango ASCII: 0xF9
+HAMMING_12_8,1000,0.010000,14,8000,12000,4000,118,true,false,true,false,0,false,byte fuera de rango ASCII: 0xFE
+HAMMING_12_8,1000,0.010000,15,8000,12000,4000,135,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 244
+HAMMING_12_8,1000,0.010000,16,8000,12000,4000,103,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 752
+HAMMING_12_8,1000,0.010000,17,8000,12000,4000,124,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 319
+HAMMING_12_8,1000,0.010000,18,8000,12000,4000,120,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 765
+HAMMING_12_8,1000,0.010000,19,8000,12000,4000,122,true,false,true,false,0,false,byte fuera de rango ASCII: 0xF9
+HAMMING_12_8,1000,0.010000,20,8000,12000,4000,121,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 400
+HAMMING_12_8,1000,0.050000,1,8000,12000,4000,573,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 29
+HAMMING_12_8,1000,0.050000,2,8000,12000,4000,612,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 15
+HAMMING_12_8,1000,0.050000,3,8000,12000,4000,596,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 90
+HAMMING_12_8,1000,0.050000,4,8000,12000,4000,586,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 85
+HAMMING_12_8,1000,0.050000,5,8000,12000,4000,590,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 161
+HAMMING_12_8,1000,0.050000,6,8000,12000,4000,595,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 6
+HAMMING_12_8,1000,0.050000,7,8000,12000,4000,607,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 74
+HAMMING_12_8,1000,0.050000,8,8000,12000,4000,606,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 87
+HAMMING_12_8,1000,0.050000,9,8000,12000,4000,601,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 74
+HAMMING_12_8,1000,0.050000,10,8000,12000,4000,605,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 7
+HAMMING_12_8,1000,0.050000,11,8000,12000,4000,613,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 151
+HAMMING_12_8,1000,0.050000,12,8000,12000,4000,578,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 2
+HAMMING_12_8,1000,0.050000,13,8000,12000,4000,562,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 65
+HAMMING_12_8,1000,0.050000,14,8000,12000,4000,597,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 27
+HAMMING_12_8,1000,0.050000,15,8000,12000,4000,599,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 78
+HAMMING_12_8,1000,0.050000,16,8000,12000,4000,627,true,false,true,false,0,false,síndrome Hamming inválido (15) en bloque offset 77
+HAMMING_12_8,1000,0.050000,17,8000,12000,4000,567,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 6
+HAMMING_12_8,1000,0.050000,18,8000,12000,4000,567,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 75
+HAMMING_12_8,1000,0.050000,19,8000,12000,4000,598,true,false,true,false,0,false,síndrome Hamming inválido (13) en bloque offset 5
+HAMMING_12_8,1000,0.050000,20,8000,12000,4000,570,true,false,true,false,0,false,síndrome Hamming inválido (14) en bloque offset 15
+CRC32_IEEE,10,0.000000,1,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,2,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,3,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,4,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,5,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,6,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,7,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,8,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,9,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,10,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,11,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,12,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,13,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,14,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,15,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,16,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,17,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,18,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,19,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.000000,20,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,1,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,2,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,3,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,4,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,5,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.001000,6,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.001000,7,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,8,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,9,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,10,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,11,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,12,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,13,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,14,80,112,32,2,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.001000,15,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,16,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,17,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.001000,18,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,19,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.001000,20,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.010000,1,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,2,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,3,80,112,32,2,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,4,80,112,32,2,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,5,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.010000,6,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.010000,7,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.010000,8,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,9,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,10,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,11,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,12,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,13,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,14,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,15,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.010000,16,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,17,80,112,32,2,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.010000,18,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.010000,19,80,112,32,0,true,true,false,false,0,true,
+CRC32_IEEE,10,0.010000,20,80,112,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,1,80,112,32,4,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,2,80,112,32,4,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,3,80,112,32,10,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,4,80,112,32,4,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,5,80,112,32,7,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,6,80,112,32,5,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,7,80,112,32,5,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,8,80,112,32,3,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,9,80,112,32,9,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,10,80,112,32,3,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,11,80,112,32,3,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,12,80,112,32,3,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,13,80,112,32,3,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,14,80,112,32,6,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,15,80,112,32,5,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,16,80,112,32,8,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,17,80,112,32,4,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,18,80,112,32,8,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,19,80,112,32,6,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,10,0.050000,20,80,112,32,8,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.000000,1,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,2,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,3,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,4,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,5,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,6,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,7,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,8,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,9,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,10,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,11,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,12,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,13,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,14,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,15,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,16,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,17,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,18,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,19,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.000000,20,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.001000,1,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,2,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.001000,3,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,4,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.001000,5,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,6,800,832,32,2,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,7,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,8,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,9,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,10,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,11,800,832,32,3,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,12,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,13,800,832,32,4,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,14,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.001000,15,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,16,800,832,32,2,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,17,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.001000,18,800,832,32,1,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.001000,19,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.001000,20,800,832,32,0,true,true,false,false,0,true,
+CRC32_IEEE,100,0.010000,1,800,832,32,14,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,2,800,832,32,10,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,3,800,832,32,11,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,4,800,832,32,5,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,5,800,832,32,8,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,6,800,832,32,9,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,7,800,832,32,13,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,8,800,832,32,9,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,9,800,832,32,7,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,10,800,832,32,4,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,11,800,832,32,10,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,12,800,832,32,5,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,13,800,832,32,16,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,14,800,832,32,5,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,15,800,832,32,13,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,16,800,832,32,6,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,17,800,832,32,6,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,18,800,832,32,5,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,19,800,832,32,7,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.010000,20,800,832,32,6,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,1,800,832,32,47,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,2,800,832,32,37,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,3,800,832,32,38,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,4,800,832,32,62,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,5,800,832,32,50,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,6,800,832,32,44,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,7,800,832,32,38,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,8,800,832,32,41,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,9,800,832,32,40,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,10,800,832,32,47,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,11,800,832,32,38,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,12,800,832,32,36,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,13,800,832,32,40,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,14,800,832,32,39,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,15,800,832,32,37,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,16,800,832,32,36,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,17,800,832,32,45,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,18,800,832,32,38,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,19,800,832,32,38,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,100,0.050000,20,800,832,32,43,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.000000,1,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,2,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,3,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,4,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,5,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,6,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,7,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,8,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,9,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,10,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,11,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,12,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,13,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,14,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,15,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,16,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,17,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,18,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,19,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.000000,20,8000,8032,32,0,true,true,false,false,0,true,
+CRC32_IEEE,1000,0.001000,1,8000,8032,32,8,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,2,8000,8032,32,11,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,3,8000,8032,32,10,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,4,8000,8032,32,6,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,5,8000,8032,32,7,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,6,8000,8032,32,5,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,7,8000,8032,32,13,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,8,8000,8032,32,8,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,9,8000,8032,32,12,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,10,8000,8032,32,4,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,11,8000,8032,32,7,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,12,8000,8032,32,11,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,13,8000,8032,32,6,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,14,8000,8032,32,11,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,15,8000,8032,32,7,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,16,8000,8032,32,10,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,17,8000,8032,32,8,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,18,8000,8032,32,9,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,19,8000,8032,32,10,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.001000,20,8000,8032,32,13,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,1,8000,8032,32,84,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,2,8000,8032,32,78,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,3,8000,8032,32,69,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,4,8000,8032,32,69,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,5,8000,8032,32,78,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,6,8000,8032,32,83,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,7,8000,8032,32,73,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,8,8000,8032,32,60,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,9,8000,8032,32,80,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,10,8000,8032,32,67,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,11,8000,8032,32,78,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,12,8000,8032,32,63,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,13,8000,8032,32,70,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,14,8000,8032,32,89,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,15,8000,8032,32,69,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,16,8000,8032,32,91,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,17,8000,8032,32,77,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,18,8000,8032,32,86,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,19,8000,8032,32,92,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.010000,20,8000,8032,32,74,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,1,8000,8032,32,410,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,2,8000,8032,32,406,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,3,8000,8032,32,388,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,4,8000,8032,32,411,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,5,8000,8032,32,406,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,6,8000,8032,32,404,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,7,8000,8032,32,404,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,8,8000,8032,32,403,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,9,8000,8032,32,402,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,10,8000,8032,32,404,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,11,8000,8032,32,414,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,12,8000,8032,32,403,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,13,8000,8032,32,379,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,14,8000,8032,32,415,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,15,8000,8032,32,396,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,16,8000,8032,32,435,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,17,8000,8032,32,415,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,18,8000,8032,32,380,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,19,8000,8032,32,396,true,false,true,false,0,false,CRC mismatch
+CRC32_IEEE,1000,0.050000,20,8000,8032,32,372,true,false,true,false,0,false,CRC mismatch
